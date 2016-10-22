@@ -1,0 +1,29 @@
+.playground {
+    background-color: #fff;
+    border: 1px solid #000;
+    cursor: none;
+    display: block;
+    height:800px;
+    margin: 20px;
+    width: 1200px;
+}
+
+.cat {
+}
+
+.mouse_hole {
+    height: 75%;
+    width: 75%;
+}
+
+.unselectable {
+    user-drag: none; 
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
